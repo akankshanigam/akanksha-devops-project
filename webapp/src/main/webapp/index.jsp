@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Hello, Welcome! This is my Devops CI/CD Pipeline Project. !!! </h1>
 
