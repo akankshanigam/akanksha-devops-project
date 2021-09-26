@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@akankshanigam 
+akankshanigam
+/
+akanksha-devops-project
+Public
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+akanksha-devops-project/pom.xml
+@ValaxyTech
+ValaxyTech initial commit
+Latest commit 3b7bdcd on Jun 19, 2018
+ History
+ 1 contributor
+220 lines (183 sloc)  5.83 KB
+   
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
@@ -207,10 +238,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+    <connection>scm:git:git@github.com:akankshanigam/akanksha-devops-project.git</connection>
+    <developerConnection>scm:git:git@github.com:akankshanigam/akanksha-devops-project.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
+    <url>https://github.com/akankshanigam/akanksha-devops-project</url>
   </scm>
 
   <prerequisites>
@@ -218,3 +249,15 @@
   </prerequisites>
 
 </project>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
